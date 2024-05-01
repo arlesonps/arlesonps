@@ -6,7 +6,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/arlesonpontes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlesond2@gmail.com)
 
-![Arleson GitHub stats](https://github-readme-stats.vercel.app/api?username=arlesonps&show_icons=true&theme=highcontrast)
+![Arleson GitHub stats](https://github-readme-stats.vercel.app/api?username=arlesonps&show_icons=true&theme=highcontrast) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlesonps&layout=compact)
 
 
